@@ -1,0 +1,13 @@
+{
+  "version": "1.9.3",
+  "released_at": "2026-10-22",
+  "requires_wp": "6.0",
+  "requires_php": "7.4",
+  "changelog": [
+    "新增：設定精靈第 ② 步加入「常見說法」，可以填同義詞、即時預覽，也可以讓 AI 依網站內容建議",
+    "修正：「在地」「目的」「其他」「個人」「參與」等詞被當成虛詞忽略（例如「在地 SEO」只搜尋「SEO」）",
+    "修正：同義詞的英文縮寫改成整個詞相符（GA 不會再換掉 GA4）"
+  ],
+  "download_url": "https://app.gumroad.com/library",
+  "info_url": "https://github.com/rex-fu88/fu88ai-chatbot-updates"
+}
