@@ -1,10 +1,17 @@
 {
-  "version": "1.9.5",
+  "version": "1.10.0",
   "released_at": "2026-10-23",
   "requires_wp": "6.0",
   "requires_php": "7.4",
   "changelog": [
-    "「授權與更新」的「聯絡支援」改成寄信到 bizlab.service@gmail.com（授權有效時顯示）"
+    "English edition: admin screens, setup wizard, chat window and emails in English; Chinese sites keep Traditional Chinese",
+    "English sites get English AI prompts and English-aware search",
+    "Licensing by major version: 1.x includes every 1.x update with no expiry; existing license keys keep working",
+    "Chat header: the talk-to-a-person button is now an icon with a tooltip",
+    "Fixes: English model-number detection, invented tags no longer shown, “speak to customer service” hands off",
+    "英文版：後台、設定精靈、聊天視窗與通知信支援英文；中文網站維持繁體中文",
+    "授權改成依大版本：買 1.x 就含所有 1.x 更新、沒有期限；已輸入的授權碼照常有效",
+    "聊天視窗標頭的「找真人」改成圖示按鈕（滑鼠移上去有說明）；新安裝預設同步 WooCommerce 商品"
   ],
   "download_url": "https://app.gumroad.com/library",
   "info_url": "https://github.com/rex-fu88/fu88ai-chatbot-updates"
