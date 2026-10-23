@@ -1,18 +1,14 @@
 {
-  "version": "1.10.0",
-  "released_at": "2026-10-23",
+  "version": "1.11.0",
+  "released_at": "2026-10-24",
   "requires_wp": "6.0",
   "requires_php": "7.4",
   "changelog": [
-    "English edition: admin screens, setup wizard, chat window and emails in English; Chinese sites keep Traditional Chinese",
-    "English sites get English AI prompts and English-aware search",
-    "Licensing by major version: 1.x includes every 1.x update with no expiry; existing license keys keep working",
-    "Chat header: the talk-to-a-person button is now an icon with a tooltip",
-    "Fixes: English model-number detection, invented tags no longer shown, “speak to customer service” hands off",
-    "英文版：後台、設定精靈、聊天視窗與通知信支援英文；中文網站維持繁體中文",
-    "授權改成依大版本：買 1.x 就含所有 1.x 更新、沒有期限；已輸入的授權碼照常有效",
-    "聊天視窗標頭的「找真人」改成圖示按鈕（滑鼠移上去有說明）；新安裝預設同步 WooCommerce 商品"
+    "One-click updates: with a valid license, click “Update now” on the Plugins screen. Each download is checked against a published checksum before it’s installed",
+    "一鍵更新：授權有效時，在外掛頁按「立即更新」即可；每次下載都會先比對公布的檢查碼才安裝",
+    "From this version on you won’t need to download and upload zips by hand / 從這一版起不必再手動下載上傳 zip"
   ],
   "download_url": "https://app.gumroad.com/library",
-  "info_url": "https://github.com/rex-fu88/fu88ai-chatbot-updates"
+  "info_url": "https://github.com/rex-fu88/fu88ai-chatbot-updates",
+  "sha256": "966339bd60e6a3d8caf636f85dd98b1d8a6f814aa80c6fad34b9b30ae6eab4e6"
 }
