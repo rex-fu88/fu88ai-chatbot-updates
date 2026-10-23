@@ -1,11 +1,10 @@
 {
-  "version": "1.9.4",
+  "version": "1.9.5",
   "released_at": "2026-10-23",
   "requires_wp": "6.0",
   "requires_php": "7.4",
   "changelog": [
-    "新增「授權與更新」：在設定頁貼上 Gumroad 授權碼，就能在 WordPress 外掛頁收到新版通知（含一年更新，可續約）",
-    "有新版時外掛頁會顯示更新說明與下載連結；沒有授權碼外掛照樣完整運作"
+    "「授權與更新」的「聯絡支援」改成寄信到 bizlab.service@gmail.com（授權有效時顯示）"
   ],
   "download_url": "https://app.gumroad.com/library",
   "info_url": "https://github.com/rex-fu88/fu88ai-chatbot-updates"
