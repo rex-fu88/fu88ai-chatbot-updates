@@ -1,14 +1,14 @@
 {
-  "version": "1.11.0",
-  "released_at": "2026-10-24",
+  "version": "1.11.1",
+  "released_at": "2026-10-27",
   "requires_wp": "6.0",
   "requires_php": "7.4",
   "changelog": [
-    "One-click updates: with a valid license, click “Update now” on the Plugins screen. Each download is checked against a published checksum before it’s installed",
-    "一鍵更新：授權有效時，在外掛頁按「立即更新」即可；每次下載都會先比對公布的檢查碼才安裝",
-    "From this version on you won’t need to download and upload zips by hand / 從這一版起不必再手動下載上傳 zip"
+    "Support and plugin links now point to fu88ai.tech (support: rex@fu88ai.tech)",
+    "English sites get an English answer-quality test template",
+    "支援信箱與外掛網址改成 fu88ai.tech（客服：rex@fu88ai.tech）；英文網站的評測範本改成英文"
   ],
   "download_url": "https://app.gumroad.com/library",
   "info_url": "https://github.com/rex-fu88/fu88ai-chatbot-updates",
-  "sha256": "966339bd60e6a3d8caf636f85dd98b1d8a6f814aa80c6fad34b9b30ae6eab4e6"
+  "sha256": "558820c4d2a3f58a81d0644333ec7bb191cbd1d113035434bfd13dd511f151fa"
 }
