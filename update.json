@@ -1,14 +1,16 @@
 {
-  "version": "1.11.1",
+  "version": "1.11.2",
   "released_at": "2026-10-27",
   "requires_wp": "6.0",
   "requires_php": "7.4",
   "changelog": [
-    "Support and plugin links now point to fu88ai.tech (support: rex@fu88ai.tech)",
-    "English sites get an English answer-quality test template",
-    "支援信箱與外掛網址改成 fu88ai.tech（客服：rex@fu88ai.tech）；英文網站的評測範本改成英文"
+    "Security: per-visitor limits can no longer be bypassed with a spoofed Cloudflare header or by rotating IPv6 addresses",
+    "Security: site-wide hourly cap on lead and handoff notification emails and webhooks (leads are still saved)",
+    "The assistant no longer reveals its internal instructions, and visitor messages claiming to be the owner or \"system\" can't change its rules",
+    "Lead CSV export keeps the leading + on phone numbers",
+    "安全性：偽造 Cloudflare 標頭或輪換 IPv6 位址不能再繞過每個訪客的限制；留資與轉接通知加上全站每小時上限；AI 不透露內部指示；CSV 匯出保留電話的 +"
   ],
   "download_url": "https://app.gumroad.com/library",
   "info_url": "https://github.com/rex-fu88/fu88ai-chatbot-updates",
-  "sha256": "558820c4d2a3f58a81d0644333ec7bb191cbd1d113035434bfd13dd511f151fa"
+  "sha256": "94ee45d07d4ca1c47f812c156559f58554f72a6a53373144a37da999bb9cfdeb"
 }
