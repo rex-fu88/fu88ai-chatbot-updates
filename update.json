@@ -1,16 +1,16 @@
 {
-  "version": "1.11.2",
+  "version": "1.12.0",
   "released_at": "2026-10-27",
   "requires_wp": "6.0",
   "requires_php": "7.4",
   "changelog": [
-    "Security: per-visitor limits can no longer be bypassed with a spoofed Cloudflare header or by rotating IPv6 addresses",
-    "Security: site-wide hourly cap on lead and handoff notification emails and webhooks (leads are still saved)",
-    "The assistant no longer reveals its internal instructions, and visitor messages claiming to be the owner or \"system\" can't change its rules",
-    "Lead CSV export keeps the leading + on phone numbers",
-    "安全性：偽造 Cloudflare 標頭或輪換 IPv6 位址不能再繞過每個訪客的限制；留資與轉接通知加上全站每小時上限；AI 不透露內部指示；CSV 匯出保留電話的 +"
+    "Chat window in 9 more languages: German, French, Spanish, Italian, Dutch, Portuguese, Japanese, Korean and Simplified Chinese",
+    "Multilingual sites (Polylang, WPML): the chat window and its messages follow each page's language",
+    "Help & diagnostics: copy or download a diagnostics report (no API keys or visitor data) and email support in one click",
+    "Larger close and menu buttons on phones; no double space in the lead confirmation when no name is given",
+    "聊天視窗新增 9 種語言（德、法、西、義、荷、葡、日、韓、簡中），多語系網站跟著每頁語言；設定頁新增「說明與診斷」一鍵複製診斷資訊；手機標頭按鈕加大"
   ],
   "download_url": "https://app.gumroad.com/library",
   "info_url": "https://github.com/rex-fu88/fu88ai-chatbot-updates",
-  "sha256": "94ee45d07d4ca1c47f812c156559f58554f72a6a53373144a37da999bb9cfdeb"
+  "sha256": "a13a7c756767ce933f2d115bd174cfdb075b803906005c51974708224df39a93"
 }
