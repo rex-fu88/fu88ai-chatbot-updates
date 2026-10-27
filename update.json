@@ -1,16 +1,13 @@
 {
-  "version": "1.12.0",
+  "version": "1.13.0",
   "released_at": "2026-10-27",
   "requires_wp": "6.0",
   "requires_php": "7.4",
   "changelog": [
-    "Chat window in 9 more languages: German, French, Spanish, Italian, Dutch, Portuguese, Japanese, Korean and Simplified Chinese",
-    "Multilingual sites (Polylang, WPML): the chat window and its messages follow each page's language",
-    "Help & diagnostics: copy or download a diagnostics report (no API keys or visitor data) and email support in one click",
-    "Larger close and menu buttons on phones; no double space in the lead confirmation when no name is given",
-    "聊天視窗新增 9 種語言（德、法、西、義、荷、葡、日、韓、簡中），多語系網站跟著每頁語言；設定頁新增「說明與診斷」一鍵複製診斷資訊；手機標頭按鈕加大"
+    "License plans for 1, 5 or unlimited websites: the License & updates screen shows your plan, and the activation notice follows it",
+    "授權方案分成 1 個網站、5 個網站、不限網站數：「授權與更新」顯示你的方案，啟用次數提醒跟著方案調整"
   ],
   "download_url": "https://app.gumroad.com/library",
   "info_url": "https://github.com/rex-fu88/fu88ai-chatbot-updates",
-  "sha256": "a13a7c756767ce933f2d115bd174cfdb075b803906005c51974708224df39a93"
+  "sha256": "26798bce349aae28120a6a5b2d46a9ada74ef0e187b6fcb3032625bb317506e9"
 }
