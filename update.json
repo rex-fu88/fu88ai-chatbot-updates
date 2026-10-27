@@ -1,13 +1,14 @@
 {
-  "version": "1.13.0",
+  "version": "1.14.0",
   "released_at": "2026-10-27",
   "requires_wp": "6.0",
   "requires_php": "7.4",
   "changelog": [
-    "License plans for 1, 5 or unlimited websites: the License & updates screen shows your plan, and the activation notice follows it",
-    "授權方案分成 1 個網站、5 個網站、不限網站數：「授權與更新」顯示你的方案，啟用次數提醒跟著方案調整"
+    "Ready for add-ons: paid extensions (such as the upcoming WooCommerce Pro) plug into the chat, settings, license and one-click updates",
+    "\"Was this helpful?\" no longer appears on replies that can't be rated",
+    "支援擴充套件：之後的付費擴充套件（例如 WooCommerce Pro）可以接上聊天、設定、授權與一鍵更新"
   ],
   "download_url": "https://app.gumroad.com/library",
   "info_url": "https://github.com/rex-fu88/fu88ai-chatbot-updates",
-  "sha256": "26798bce349aae28120a6a5b2d46a9ada74ef0e187b6fcb3032625bb317506e9"
+  "sha256": "6edda7d3001b0e2402e0179c0eef18e047eb78311611f17cd80f7597e9af5c3b"
 }
