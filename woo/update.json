@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "released_at": "2026-10-31",
+  "requires_wp": "6.0",
+  "requires_php": "7.4",
+  "changelog": [
+    "First release: order lookup in the chat (order number + billing email, signed-in customers' recent orders, tracking) and product cards with Add to cart",
+    "首次發佈：在聊天視窗查訂單（訂單編號＋帳單 Email、已登入會員的最近訂單、物流追蹤），以及可直接加入購物車的商品卡片"
+  ],
+  "download_url": "https://app.gumroad.com/library",
+  "info_url": "https://github.com/rex-fu88/fu88ai-chatbot-updates",
+  "sha256": "8d062928aa3e48f29e22818ff1ea5dfeb21d20613391e291a67b29bbe0aeaaf5"
+}
